@@ -50,8 +50,7 @@ _____________
 [![Build Status](https://travis-ci.org/iphone5solo/PYSearch.svg?branch=master)](https://travis-ci.org/iphone5solo/PYSearch)
 
 [![云仓储订单界面](云仓储订单号3.jpg)](https://github.com/lb2281075105/MarkdownGrammar.git)
-<img src="云仓储订单号3.jpg" width="375"><img src="云仓储订单号3.jpg" width="375"><br>
-<img src="云仓储订单号3.jpg" width="375">
+
 
 13. 跳转到标题对应的内容
    [[^1]]() [Markdown 语法](#Markdown)里面不能有空格
@@ -61,7 +60,7 @@ _____________
    [[^2]]() [Markdown 语法](#Markdown)里面不能有空格
             #<a id="Markdown"></a>Markdown
 
-14. <img src="https://github.com/iphone5solo/learngit/raw/master/imagesForPYSearch/hotSearchStyle03.png" width="375"><img src="https://github.com/iphone5solo/learngit/raw/master/imagesForPYSearch/hotSearchStyle02.png" width="375"><br><img src="https://github.com/iphone5solo/learngit/raw/master/imagesForPYSearch/hotSearchStyle03.png" width="375">
+14. <img src="云仓储订单号3.jpg" width="375"><img src="云仓储订单号3.jpg" width="375">
 
     MJRefresh Markdown语法错误
 
@@ -102,7 +101,10 @@ _____________
 19. 表格：
 
 序号    |    类库   |   简介    |
-:
+:------|:--------:|:----------|
+1      | 济南仓    |   大明湖   | 
+2      | 菏泽仓    |   牡丹花   |
+
 
 
 
