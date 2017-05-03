@@ -55,7 +55,7 @@ _____________
         我经常访问的几个网站[Google][1]、[Leanote][2]以及[自己的博客][3]
         [Leanote 笔记][2]是一个不错的[网站][]。
 
-        [1]:http://www.google.com "Google"
+[1]:http://www.google.com "Google"
 [2]:http://www.leanote.com "Leanote"
 [3]:http://http://blog.leanote.com/freewalk "梵居闹市"
 [网站]:http://baidu.com "百度"
