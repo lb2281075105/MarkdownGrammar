@@ -43,11 +43,22 @@ _____________
 
    Markdown 语法 [[20]]()
 
-10. [MarkdownGrammar](https://github.com/lb2281075105/MarkdownGrammar.git)
+10. [[^1]]() 行内式超链接：[MarkdownGrammar](https://github.com/lb2281075105/MarkdownGrammar.git)
 
     []里写链接文字，()里写链接地址, ()中的”“中可以为链接指定title属性，title属性可加可不加。title属性的效果是鼠标悬停在链接上会出现指定的 title文字。[链接文字](链接地址 “链接标题”)’这样的形式。链接地址与链接标题前有一个空格。
+
     欢迎来到[MarkdownGrammar](https://github.com/lb2281075105/MarkdownGrammar.git "MarkdownGrammar")
 
+    [[^2]]() 参考式超链接：写法 [链接文字][链接标记] 在文本的任意位置添加[链接标记]:链接地址 “链接标题”，链接地址与链接标题前有一个空格。如果链接文字本身可以做为链接标记，你也可以写成[链接文字][] 
+        [链接文字]：链接地址的形式，见代码的最后一行
+
+        我经常访问的几个网站[Google][1]、[Leanote][2]以及[自己的博客][3]
+        [Leanote 笔记][2]是一个不错的[网站][]。
+
+        [1]:http://www.google.com "Google"
+        [2]:http://www.leanote.com "Leanote"
+        [3]:http://http://blog.leanote.com/freewalk "梵居闹市"
+        [网站]:http://baidu.com "百度"
 11. *字体斜体* 或 _斜体_
     **字体加粗**
     ***字体加粗并变斜***
