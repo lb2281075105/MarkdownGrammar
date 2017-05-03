@@ -60,6 +60,8 @@ _____________
 [3]:http://http://blog.leanote.com/freewalk "梵居闹市"
 [网站]:http://baidu.com "百度"
 
+    [[^3]]() 自动链接：自动链接形式来处理网址和电子邮件信箱 <http://baidu.com><2281075105@qq.com>
+
 11. *字体斜体* 或 _斜体_
     **字体加粗**
     ***字体加粗并变斜***
@@ -78,6 +80,8 @@ _____________
    [[^2]]() [Markdown 语法](#Markdown)里面不能有空格
             #<a id="Markdown"></a>Markdown
 
+   [[^3]]() ## 0. 目录{#index}
+            跳转到[目录](#index)
 14. <img src="云仓储订单号3.jpg" width="375"><img src="云仓储订单号3.jpg" width="375">
 
     MJRefresh Markdown语法错误
